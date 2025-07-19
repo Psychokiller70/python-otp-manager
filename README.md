@@ -27,4 +27,4 @@ python otp_manager.py
 
 OTP: 123456
 Enter OTP: 123456
-OTP is valid!
+OTP is valid! and 
