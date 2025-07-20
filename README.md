@@ -1,4 +1,4 @@
-# 🔐 Python OTP Manager
+gl# 🔐 Python OTP Manager
 
 A simple Python script to generate and validate 6-digit OTPs (One-Time Passwords) with expiry support. Useful for authentication workflows, testing, and learning purposes.
 
@@ -27,4 +27,4 @@ python otp_manager.py
 
 OTP: 123456
 Enter OTP: 123456
-OTP is valid! and 
+OTP is invalid or expired.
